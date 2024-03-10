@@ -1,6 +1,4 @@
-# Quiz-app-using-mern
-Quiz app using mern
-## This is a quizing app
+## This is a quizing app using mern
 
 To run this app 
 ```sh
