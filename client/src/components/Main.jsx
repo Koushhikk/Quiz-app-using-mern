@@ -17,7 +17,7 @@ const Main = () => {
 
   return (
     <div className="container">
-      <h1 className="title text-light" style={{color:"black"}}>Quiz App</h1>
+      <h1 className="title text-light" style={{color:"black"}}>Brainy Application</h1>
 
       <div className="introduction">
         <br/><br/>Welcome to the Web Dev Quiz!<br/> 5 questions, 3 choices each. Pick one for
