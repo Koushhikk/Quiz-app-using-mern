@@ -1,0 +1,49 @@
+.container .introduction {
+  font-size: 1.4em;
+  color: black;
+  text-align: center;
+}
+body {
+  background-image: url('personality-quiz.webp');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  margin: 0; 
+  padding: 0; 
+  height: 100% 
+}
+
+
+.start {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  flex-direction: column;
+  padding-top: 2em;
+  
+}
+
+.start .btn {
+  padding: 0.2em 1.7em;
+  border:2px solid black;
+  border-radius:2px;
+  font-size: 1.2em;
+  color: #202020;
+  text-decoration: none;
+  background-color: skyblue;
+}
+
+#form {
+  display: flex;
+  justify-content: center;
+  margin-top: 4em;
+}
+
+#form .userid {
+  padding: 0.7em 2em;
+  width: 50%;
+  border: solid;
+  border-radius: 3px;
+  font-size: 1em;
+}
