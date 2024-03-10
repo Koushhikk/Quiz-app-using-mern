@@ -22,7 +22,3 @@ open another terminal
 cd client
 npm start
 ```
-to run this app in dev mode
-```sh
-npm run dev
-```

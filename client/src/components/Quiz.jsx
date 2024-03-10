@@ -42,7 +42,7 @@ const Quiz = () => {
 
   return (
     <div className="container">
-      <h1 className="title text-light">Brainy Application</h1>
+      <h1 className="title text-light">Quiz App</h1>
 
       <Questions onChecked={onChecked} />
 
